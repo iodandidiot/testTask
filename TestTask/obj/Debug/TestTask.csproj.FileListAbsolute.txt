@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\TestTask\obj\Debug\TestTask.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\TestTask\obj\Debug\TestTask.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\TestTask\obj\Debug\TestTask.pdb
