@@ -5,3 +5,16 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\UnitTestProject1\ob
 C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
 C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\UnitTestProject1\bin\Debug\TestTask.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\TestTask\UnitTestProject1\bin\Debug\TestTask.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\TestTask.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\TestTask.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\test_task\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

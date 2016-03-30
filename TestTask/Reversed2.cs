@@ -7,7 +7,7 @@ using System.IO;
 
 namespace TestTask
 {
-    public class Reversed2 : IHandler, IHandlerReversed
+    public class Reversed2 : IHandler
     {
         private string[] allFoundFiles;
 

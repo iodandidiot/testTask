@@ -7,7 +7,7 @@ using System.IO;
 
 namespace TestTask
 {
-    public class Reversed1 : IHandler,IHandlerReversed
+    public class Reversed1 : IHandler
     {
         private string[] allFoundFiles;
 
@@ -22,11 +22,7 @@ namespace TestTask
         {
             for (int i = 0; i < allFoundFiles.Length; i++)
             {
-                allFoundFiles[i] = allFoundFiles[i].Remove(0, path.Length);
-                //string[] separator = new string[] {@"\"};
-                //string[] temp = allFoundFiles[i].Split(separator,StringSplitOptions.None);
-                //Array.Reverse(temp);
-                //allFoundFiles[i] = ConcatString(temp);
+                allFoundFiles[i] = allFoundFiles[i].Remove(0, path.Length);               
                 allFoundFiles[i] = ReversPathString(allFoundFiles[i]);
             }
         }
